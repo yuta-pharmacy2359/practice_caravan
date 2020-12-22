@@ -138,6 +138,8 @@ main {
 
 .common-heading {
   border-bottom: 8px solid #f7f7f7;
+  text-align: center;
+  line-height: 0.6;
 }
 
 .sidebar-contents {
